@@ -34,7 +34,7 @@
 
 ## Screenshots
 
-*(Include screenshots here if uploading to GitHub)*
+*Screenshot_2025-05-09-16-04-35-769_com.replit.app.jpg*
 
 ---
 
